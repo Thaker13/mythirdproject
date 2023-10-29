@@ -1,6 +1,8 @@
 package datatypefloatpackage;
 
 public class FloatClass {
+/*my modifications*/
+
 
     public static void main ( String [] args ) {
 
